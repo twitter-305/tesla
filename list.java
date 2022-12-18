@@ -6,3 +6,4 @@ chi
 ope
 ola
 olu
+# bugs removed
